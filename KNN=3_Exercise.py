@@ -81,3 +81,4 @@ plt.show()
 # Final prediction result
 print("Final prediction for new customer:", prediction[0])
 
+
